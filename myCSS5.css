@@ -1,16 +1,21 @@
+
+#405/505 collaboration - JC
+#added padding for uniformity.
 header {
          
            text-align: center;
             background: black;
             color: white;
+			padding: 20px;
            }
 
-
+#added padding for uniformity.
 footer {
             
            text-align: center;
             background: black;
             color: white;
+			padding: 20px;
             }
 
  
@@ -19,6 +24,7 @@ div {text-align: center;
 	height: 100%
 	width: 100%;
 	border: 5px black solid;}
+
 
 
 body {background-color: #987185};>
